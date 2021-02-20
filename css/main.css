@@ -17,4 +17,6 @@ div{
     color: darkgreen;
     line-height: normal;
     text-align: center;
+    height: 12;
+    width: min-content;
 }
