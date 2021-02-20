@@ -12,3 +12,8 @@ h1{
     letter-spacing: normal;
 }
 
+div{
+    background-color: cornflowerblue;
+    color: darkgreen;
+    line-height: normal;
+}
